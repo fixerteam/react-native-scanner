@@ -1,0 +1,20 @@
+{
+  "name": "react-native-scanner-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios --simulator=\"iPhone X\"",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.4",
+    "react-native-scanner": "../"
+  },
+  "devDependencies": {
+    "@types/react-test-renderer": "16.9.0",
+    "react-test-renderer": "16.9.0",
+    "react-native-typescript-transformer": "^1.2.13"
+  }
+}
