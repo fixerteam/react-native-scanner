@@ -1,4 +1,4 @@
-package com.scannerdemo;
+package com.rnscannerdemo;
 
 import android.app.Application;
 import android.content.Context;

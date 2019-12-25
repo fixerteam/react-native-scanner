@@ -248,7 +248,7 @@ DEPENDENCIES:
   - React-RCTVibration (from `../node_modules/react-native/Libraries/Vibration`)
   - ReactCommon/jscallinvoker (from `../node_modules/react-native/ReactCommon`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
-  - WeScan (from `../../ios`)
+  - WeScan (from `../node_modules/react-native-scanner/ios`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -305,7 +305,7 @@ EXTERNAL SOURCES:
   ReactCommon:
     :path: "../node_modules/react-native/ReactCommon"
   WeScan:
-    :path: "../../ios"
+    :path: "../node_modules/react-native-scanner/ios"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
@@ -338,6 +338,6 @@ SPEC CHECKSUMS:
   WeScan: ddb041cdf27a0e109e7c5d9b7e559036042d4422
   Yoga: 6af72bedeaea291a3a3717772d6d41836f23a1b9
 
-PODFILE CHECKSUM: b279bb6b20c4b35c7a7e67feafc20bb904570dac
+PODFILE CHECKSUM: 8ae7e65a6fbcbda9adaf424bda0ba713da451ddb
 
 COCOAPODS: 1.5.2

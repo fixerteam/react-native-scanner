@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.4",
-    "react-native-scanner": "../"
+    "react-native-scanner": "github:fixerteam/react-native-scanner"
   },
   "devDependencies": {
     "@types/react-test-renderer": "16.9.0",
